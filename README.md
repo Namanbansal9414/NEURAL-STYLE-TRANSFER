@@ -1,7 +1,6 @@
 ## Neural Style Transfer (optimization method) :computer: + :art: = :heart:
-This repo contains a concise PyTorch implementation of the original NST paper (:link: [Gatys et al.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)).
 
-It's an accompanying repository for [this video series on YouTube](https://www.youtube.com/watch?v=S78LQebx6jo&list=PLBoQnSflObcmbfshq9oNs41vODgXG-608).
+
 
 <p align="left">
 <a href="https://www.youtube.com/watch?v=S78LQebx6jo" target="_blank"><img src="https://img.youtube.com/vi/S78LQebx6jo/0.jpg" 
@@ -227,13 +226,3 @@ If you find this code useful for your research, please cite the following:
 }
 ```
 
-## Connect with me
-
-If you'd love to have some more AI-related content in your life :nerd_face:, consider:
-* Subscribing to my YouTube channel [The AI Epiphany](https://www.youtube.com/c/TheAiEpiphany) :bell:
-* Follow me on [LinkedIn](https://www.linkedin.com/in/aleksagordic/) and [Twitter](https://twitter.com/gordic_aleksa) :bulb:
-* Follow me on [Medium](https://gordicaleksa.medium.com/) :books: :heart:
-
-## Licence
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gordicaleksa/pytorch-neural-style-transfer/blob/master/LICENCE)
